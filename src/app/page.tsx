@@ -3,7 +3,7 @@ import React from "react";
 function page() {
   return (
     <div>
-      <div className="text-blue-500">Rifqi</div>
+      <div>Coming Soon</div>
     </div>
   );
 }
